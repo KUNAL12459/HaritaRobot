@@ -9,7 +9,7 @@
          "manager",
          "Miley"
       ],   
-   "repository": "https://github.com/TeamEviral/HaritaRobot",
+   "repository": "https://github.com/KUNAL12459/HaritaRobot",
    "addons": [
       {
          "options": {
@@ -46,7 +46,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Eviral"
+         "value": "SURYA12P"
       },
       "STRING_SESSION": {
          "description": "Your Telethon String Session. Create it by repl.it.",
@@ -76,7 +76,7 @@
       "UPSTREAM_REPO_URL": {
          "description": "Required for Update module",
          "required": true,
-         "value": "https://github.com/TeamEviral/HaritaRobot"
+         "value": "https://github.com/KUNAL12459/HaritaRobot"
       }
    },
    "keywords": [
@@ -87,5 +87,5 @@
       "Miley"
    ],
    "name": "Harita",
-   "repository": "https://github.com/TeamEviral/HaritaRobot"
+   "repository": "https://github.com/KUNAL12459/HaritaRobot"
 }
